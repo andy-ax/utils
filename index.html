@@ -1,0 +1,67 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta content="initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" name="viewport" />
+    <meta name="apple-mobile-web-app-capable" content="no">
+    <meta name="format-detection" content="telephone=no">
+    <title>测试</title>
+    <link rel="stylesheet" href="css/frame.css">
+    <style>
+        .box{
+            display: block;
+        }
+        .main-img{
+            display: block;
+            width: 93.8%;
+            margin: 3.2%;
+        }
+        .btn-box{
+            position: absolute;
+            left: 0;
+            bottom: 11.4%;
+            width: 100%;
+            margin: 0 auto;
+        }
+        .btn-img{
+            display: block;
+            width: 38.98%;
+            height: 100%;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+<div id="app" class="box">
+    <div class="body-container">
+        <div class="main-container">
+            <img id="contImg" class="main-img">
+            <div class="btn-box">
+                <img class="btn-img" src="img/button.png">
+            </div>
+        </div>
+    </div>
+</div>
+<!--无vue模式-->
+<script src="js/frame.js"></script>
+<script>
+    bSS.setSmallBox(785, 1007);
+    let type = bSS.setContainerStyle();
+    let w,h;
+    let contImg = document.getElementById('contImg');
+    let app = document.getElementById('app');
+    if (type === 3) {
+        w = 785;
+        h = 1007;
+        contImg.src = 'img/cont-img1.png';
+        app.style.backgroundImage = "url('img/background1.png')"
+    } else {
+        w = 444;
+        h = 720;
+        contImg.src = 'img/cont-img2.png';
+        app.style.backgroundImage = "url('img/background2.png')"
+    }
+    bSS.setMain(w, h);
+</script>
+</body>
+</html>

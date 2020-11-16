@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66eccc81-5d4d-4d8c-979e-ebba85f7d878" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kLmTNzKFuENtd2URRkHXatvO0e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../慈善日/im-live-VCloud-V4/rmb" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66eccc81-5d4d-4d8c-979e-ebba85f7d878" name="Default Changelist" comment="" />
+      <created>1605362627357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605362627357</updated>
+      <workItem from="1605362629339" duration="2445000" />
+      <workItem from="1605488254492" duration="2889000" />
+      <workItem from="1605506053728" duration="6304000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1021" y="184" key="FileChooserDialogImpl" timestamp="1605511340697">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="1021" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1605511340697" />
+    <state x="602" y="61" key="SettingsEditor" timestamp="1605494671891">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="602" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1605494671891" />
+  </component>
+</project>
